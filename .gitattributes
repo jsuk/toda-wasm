@@ -1,0 +1,8 @@
+# Mark wasm files as binary
+*.wasm binary
+
+# Mark JavaScript as text
+*.js text eol=lf
+
+# Mark HTML as text
+*.html text eol=lf
