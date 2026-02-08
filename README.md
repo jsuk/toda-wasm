@@ -4,7 +4,7 @@ An astronomical visualization application running in your browser.
 
 ## Live Demo
 
-Visit: https://[username].github.io/toda-wasm/
+Visit: https://jsuk.github.io/toda-wasm/
 
 ## Features
 
